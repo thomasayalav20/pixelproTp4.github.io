@@ -1,4 +1,4 @@
- PixelPro — TP4
+# PixelPro — TP4
 
 **Proyecto:** Portal gamer PixelPro · Integrador de Programación Web TP4–TP8.
 
@@ -16,7 +16,17 @@ Migrar el sitio a PHP, reutilizar partes comunes y separar estructura, diseño e
 - `todo.css` y `todo.js`: estilos y comportamientos separados del PHP.
 - `config/env.php`: lectura de configuración.
 
+## Cómo demostrarlo
 
+1. Abrí `http://localhost/PixelPro/index.php` y mostrá portada y menú.
+2. Navegá a Noticias, Blog y Contacto para comprobar que comparten el encabezado.
+3. Abrí VS Code y mostrá la carpeta `includes` y una línea `require` que importa header/footer.
+4. Mostrá `todo.css` y `todo.js` como archivos independientes.
+
+
+## Evidencias fotográficas (capturas reales)
+
+Las siguientes imágenes están guardadas en la carpeta **`capturas de limon/capturas ayala tp4/`**. Los enlaces son relativos a este README ubicado en `PixelPro/docs/`. Se respetaron los nombres originales, incluidos los dos espacios del TP5.
 
 ### Portada principal de PixelPro
 
@@ -29,3 +39,5 @@ Migrar el sitio a PHP, reutilizar partes comunes y separar estructura, diseño e
 ### Navegación entre páginas
 
 ![Navegación entre páginas](../capturas%20de%20limon/capturas%20ayala%20tp4/tp4-navegacion.png)
+
+> Las capturas son evidencia de la instalación local. Antes de publicarlas, revisá que no muestren datos personales o credenciales.
