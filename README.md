@@ -1,6 +1,5 @@
 # PixelPro — TP4
 
-**Proyecto:** Portal gamer PixelPro · Integrador de Programación Web TP4–TP8.
 
 **Instalación previa:** colocar `PixelPro/` en `C:\xampp\htdocs\`, encender Apache y MySQL, importar `PixelPro/database/schema.sql` en phpMyAdmin y configurar `PixelPro/config/.env` a partir de `.env.example` sin compartir las credenciales. Abrir `http://localhost/PixelPro/`.
 
